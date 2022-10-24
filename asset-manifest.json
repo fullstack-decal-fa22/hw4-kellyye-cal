@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/hw4-kellyye-cal/static/css/main.b6832693.css",
+    "main.js": "/hw4-kellyye-cal/static/js/main.b1f4bdc5.js",
+    "static/js/787.263e14e4.chunk.js": "/hw4-kellyye-cal/static/js/787.263e14e4.chunk.js",
+    "index.html": "/hw4-kellyye-cal/index.html",
+    "main.b6832693.css.map": "/hw4-kellyye-cal/static/css/main.b6832693.css.map",
+    "main.b1f4bdc5.js.map": "/hw4-kellyye-cal/static/js/main.b1f4bdc5.js.map",
+    "787.263e14e4.chunk.js.map": "/hw4-kellyye-cal/static/js/787.263e14e4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b6832693.css",
+    "static/js/main.b1f4bdc5.js"
+  ]
+}
